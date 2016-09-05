@@ -14,11 +14,11 @@ Please, cite this code as follows (BibTeX format):
 		@ARTICLE{Anglano-2016-FCMS,
 			author = {Cosimo Anglano and Massimo Canonico and Marco Guazzone},
 			title = {{FCMS}: a Fuzzy Controller for {CPU} and Memory Consolidation under {SLA} Constraints}
-			journal = {},
-			publisher = {},
+			journal = {Concurrency and Computation: Practice and Experience},
+			publisher = {Wiley},
 			keywords = {cloud computing, resource management, feedback control, fuzzy control, server consolidation, virtualized cloud applications},
 			year = {2016},
-			note = {Submitted for publication},
+			note = {Accepted for publication},
 		}
 
 
