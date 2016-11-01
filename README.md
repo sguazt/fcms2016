@@ -3,11 +3,13 @@ fcms2016
 
 This is a meta-project for the code used in the experimental evaluation presented in the article:
 
-> Cosimo Anglano and Massimo Canonico and Marco Guazzone.
+> Cosimo Anglano, Massimo Canonico and Marco Guazzone.
 >
 > *FCMS: a Fuzzy Controller for CPU and Memory Consolidation under SLA Constraints*
 >
-> Submitted for publication, 2016.
+> Concurrency and Computation: Practice and Experience, In Press, 2016.
+>
+> doi:[10.1002/cpe.3968](http://dx.doi.org/10.1002/cpe.3968).
 
 Please, cite this code as follows (BibTeX format):
 
@@ -18,7 +20,9 @@ Please, cite this code as follows (BibTeX format):
 			publisher = {Wiley},
 			keywords = {cloud computing, resource management, feedback control, fuzzy control, server consolidation, virtualized cloud applications},
 			year = {2016},
-			note = {Accepted for publication},
+			doi = {10.1002/cpe.3968},
+			url = {http://dx.doi.org/10.1002/cpe.3968},
+			note = {In Press},
 		}
 
 
