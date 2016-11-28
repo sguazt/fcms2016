@@ -11,7 +11,7 @@ This is a meta-project for the code used in the experimental evaluation presente
 >
 > doi:[10.1002/cpe.3968](http://dx.doi.org/10.1002/cpe.3968).
 
-Please, cite this code as follows (BibTeX format):
+Please, cite this project as follows (BibTeX format):
 
 		@ARTICLE{Anglano-2016-FCMS,
 			author = {Cosimo Anglano and Massimo Canonico and Marco Guazzone},
@@ -29,7 +29,7 @@ Please, cite this code as follows (BibTeX format):
 Introduction
 ------------
 
-The code is composed by two macro-modules:
+The project is composed by two macro-modules:
 
 * *server-side module* contains code to be run on the server-side (e.g., inside a virtual machine (VM)). The module is composed by:
 
