@@ -19,9 +19,9 @@ Please, cite this project as follows (BibTeX format):
         journal = {Concurrency and Computation: Practice and Experience},
         year = {2016},
         keywords = {cloud computing, feedback control, fuzzy control, resource management, server consolidation, virtualized cloud applications},
-        issn = {1532-0634},
         url = {http://dx.doi.org/10.1002/cpe.3968},
         doi = {10.1002/cpe.3968},
+        issn = {1532-0634},
 		note = {In Press},
     }
 
