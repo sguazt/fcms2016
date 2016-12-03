@@ -13,17 +13,17 @@ This is a meta-project for the code used in the experimental evaluation presente
 
 Please, cite this project as follows (BibTeX format):
 
-		@ARTICLE{Anglano-2016-FCMS,
-			author = {Cosimo Anglano and Massimo Canonico and Marco Guazzone},
-			title = {{FCMS}: a Fuzzy Controller for {CPU} and Memory Consolidation under {SLA} Constraints}
-			journal = {Concurrency and Computation: Practice and Experience},
-			publisher = {Wiley},
-			keywords = {cloud computing, resource management, feedback control, fuzzy control, server consolidation, virtualized cloud applications},
-			year = {2016},
-			doi = {10.1002/cpe.3968},
-			url = {http://dx.doi.org/10.1002/cpe.3968},
-			note = {In Press},
-		}
+    @ARTICLE{CPE:CPE3968,
+        author = {Cosimo Anglano and Massimo Canonico and Marco Guazzone},
+        title = {{FCMS}: A Fuzzy Controller for {CPU} and Memory Consolidation under {SLA} Constraints},
+        journal = {Concurrency and Computation: Practice and Experience},
+        year = {2016},
+        keywords = {cloud computing, feedback control, fuzzy control, resource management, server consolidation, virtualized cloud applications},
+        issn = {1532-0634},
+        url = {http://dx.doi.org/10.1002/cpe.3968},
+        doi = {10.1002/cpe.3968},
+		note = {In Press},
+    }
 
 
 Introduction
